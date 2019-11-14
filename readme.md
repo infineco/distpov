@@ -4,7 +4,7 @@ Distributed POVRAY on google cloudrun
 
 The purpose of this demo is to show how simple it is to build & deploy a "simple" distributed process on [Cloud Run](https://cloud.google.com/run/). For this demo we will use [POV-Ray](https://github.com/POV-Ray/povray.git) - a raytracer - and without modifying one single byte of the original project, we will manage to run it on Cloud Run.
 
-[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/infineco/distpov.git)
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
 
 ### Prerequisite :   
 - [Locally installed docker](https://docs.docker.com/install/), not mandatory, but better for testing
